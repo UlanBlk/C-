@@ -1,0 +1,15 @@
+D:\GB\C#\18.02.23\Hello world\bin\Debug\net7.0\Hello world.exe
+D:\GB\C#\18.02.23\Hello world\bin\Debug\net7.0\Hello world.deps.json
+D:\GB\C#\18.02.23\Hello world\bin\Debug\net7.0\Hello world.runtimeconfig.json
+D:\GB\C#\18.02.23\Hello world\bin\Debug\net7.0\Hello world.dll
+D:\GB\C#\18.02.23\Hello world\bin\Debug\net7.0\Hello world.pdb
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.csproj.AssemblyReference.cache
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfoInputs.cache
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfo.cs
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.csproj.CoreCompileInputs.cache
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.dll
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\refint\Hello world.dll
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.pdb
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\Hello world.genruntimeconfig.cache
+D:\GB\C#\18.02.23\Hello world\obj\Debug\net7.0\ref\Hello world.dll
